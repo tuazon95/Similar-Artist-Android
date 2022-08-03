@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labb3</string>
+    <string name="welcome_text">Hej! Välkommen till Domify!</string>
+    <string name="no_artists_found">No Artist Found</string>
+</resources>
