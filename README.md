@@ -3,7 +3,7 @@
 This is an application created in Android Studios using Java and in collaboration with two other students.
 the purpose of this application is to search for an artist of your liking with the output of retrieve a list of similair artist.
 
-The application in built on four classes and one interface. The classs are - Artist, AsyncApiCallCreator, MainActivity and SearchResult.
+The application in built on four classes and one interface. The classes are - Artist, AsyncApiCallCreator, MainActivity and SearchResult.
 
 - Artist.Java:
 The purpose of this class is to control the list of artists stored in a ArrayList. With teh functions of adding a artist and also clearing the list when a new search is being made by the user.
